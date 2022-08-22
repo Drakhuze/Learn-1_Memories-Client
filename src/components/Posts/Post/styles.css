@@ -1,8 +1,8 @@
 .post--media {    
     height: 0 !important;
-    padding-top: '56.25%' !important;
-    background-color: 'rgba(0, 0, 0, 0.5)' !important;
-    background-blend-mode: 'darken' !important;
+    padding-top: 56.25% !important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    background-blend-mode: darken !important;
 }
 
 .post--border {    
@@ -10,48 +10,48 @@
 }
 
 .post--fullHeightCard {    
-    height: '100%' !important;
+    height: 100% !important;
 }
 
 .post--card {    
-    display: 'flex' !important;
-    flex-direction: 'column' !important;
-    justify-content: 'space-between' !important;
-    border-radius: '15px' !important;
-    height: '100%' !important;
-    position: 'relative' !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    border-radius: 15px !important;
+    height: 100% !important;
+    position: relative !important;
 }
 
 .post--overlay {    
-    position: 'absolute' !important;
-    top: '20px' !important;
-    left: '20px' !important;
-    color: 'white' !important;
+    position: absolute !important;
+    top: 20px !important;
+    left: 20px !important;
+    color: white !important;
 }
 
 .post--overlay2 {    
-    position: 'absolute' !important;
-    top: '20px' !important;
-    right: '20px' !important;
-    color: 'white' !important;
+    position: absolute !important;
+    top: 20px !important;
+    right: 20px !important;
+    color: white !important;
 }
 
 .post--grid {    
-    display: 'flex' !important;
+    display: flex !important;
 }
 
 .post--details {    
-    display: 'flex' !important;
-    justify-content: 'space-between' !important;
-    margin: '20px' !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    margin: 20px !important;
 }
 
 .post--title {    
-    padding: '0 16px' !important;
+    padding: 0 16px !important;
 }
 
 .post--cardActions {    
-    padding: '0 16px 8px 16px' !important;
-    display: 'flex' !important;
-    justify-content: 'space-between' !important;
+    padding: 0 16px 8px 16px !important;
+    display: flex !important;
+    justify-content: space-between !important;
 }
