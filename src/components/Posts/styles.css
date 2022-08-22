@@ -1,0 +1,12 @@
+.posts-mainContainer {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.posts-smMargin {
+    margin: 8px !important;
+}
+
+.posts-actionDiv {
+    text-align: center !important;
+}

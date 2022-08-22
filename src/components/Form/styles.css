@@ -1,0 +1,22 @@
+.form--root .MuiTextField-root {
+    margin-bottom: 8px;
+}
+
+.form--paper {
+    padding: 16px !important;
+}
+
+.form--paper {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+}
+
+.form--fileInput {
+    width: 97% !important;
+    margin: 10px 0 !important;
+}
+
+.form--buttonSubmit {
+    margin-bottom: 10px !important;
+}
